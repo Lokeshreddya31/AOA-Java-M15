@@ -1,5 +1,10 @@
 
 # EX 5E Minimum Spanning Tree -Boruvka's Algorithm
+## DATE: 24-08-2026
+
+### Developed By: Lokesh Reddy A
+
+### Register Number: 212223040104
 
 ## AIM:
 To write a Java program to for given constraints.
